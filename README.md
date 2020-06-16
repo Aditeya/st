@@ -11,7 +11,7 @@
 - [x] bold is not bright
 - [x] boxdraw
 - [x] clipboard
-- [ ] copyurl
+- [x] copyurl
 - [ ] delkey
 - [x] desktopentry
 - [ ] font2
