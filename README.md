@@ -13,7 +13,7 @@
 - [ ] clipboard
 - [ ] copyurl
 - [ ] delkey
-- [ ] desktopentry
+- [x] desktopentry
 - [ ] font2
 - [ ] hidecursor
 - [ ] scrollback
