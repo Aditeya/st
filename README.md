@@ -17,4 +17,4 @@
 - [ ] font2
 - [x] hidecursor
 - [x] scrollback
-- [ ] vertcenter
+- [x] vertcenter
