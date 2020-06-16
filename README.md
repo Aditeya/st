@@ -9,7 +9,7 @@
 - [ ] alpha focus highlight
 - [x] anysize
 - [x] bold is not bright
-- [ ] boxdraw
+- [x] boxdraw
 - [ ] clipboard
 - [ ] copyurl
 - [ ] delkey
