@@ -16,5 +16,5 @@
 - [x] desktopentry
 - [ ] font2
 - [x] hidecursor
-- [ ] scrollback
+- [x] scrollback
 - [ ] vertcenter
