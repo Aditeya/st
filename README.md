@@ -15,6 +15,6 @@
 - [ ] delkey
 - [x] desktopentry
 - [ ] font2
-- [ ] hidecursor
+- [x] hidecursor
 - [ ] scrollback
 - [ ] vertcenter
