@@ -10,7 +10,7 @@
 - [x] anysize
 - [x] bold is not bright
 - [x] boxdraw
-- [ ] clipboard
+- [x] clipboard
 - [ ] copyurl
 - [ ] delkey
 - [x] desktopentry
