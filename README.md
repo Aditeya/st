@@ -8,7 +8,7 @@
 
 - [ ] alpha focus highlight
 - [x] anysize
-- [ ] bold is not bright
+- [x] bold is not bright
 - [ ] boxdraw
 - [ ] clipboard
 - [ ] copyurl
