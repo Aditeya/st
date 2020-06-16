@@ -14,7 +14,7 @@
 - [x] copyurl
 - [ ] delkey
 - [x] desktopentry
-- [ ] font2
+- [x] font2
 - [x] hidecursor
 - [x] scrollback
 - [x] vertcenter
