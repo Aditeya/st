@@ -6,13 +6,12 @@
 
 `patch --merge -i [patch.diff]`
 
-- [ ] alpha focus highlight
+- [x] alpha focus highlight
 - [x] anysize
 - [x] bold is not bright
 - [x] boxdraw
 - [x] clipboard
 - [x] copyurl
-- [ ] delkey
 - [x] desktopentry
 - [x] font2
 - [x] hidecursor
