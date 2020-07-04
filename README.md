@@ -12,7 +12,6 @@
 - [x] boxdraw
 - [x] clipboard
 - [x] copyurl
-- [ ] delkey
 - [x] desktopentry
 - [x] font2
 - [x] hidecursor
