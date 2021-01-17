@@ -17,3 +17,4 @@
 - [x] hidecursor
 - [x] scrollback
 - [x] vertcenter
+- [x] blinking cursor
