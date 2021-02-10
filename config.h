@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Source Code Pro Medium:pixelsize=12:antialias=true:autohint=true";
+static char *font = "Iosevka Slab Medium:pixelsize=13:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
 	"Symbola:pixelsize=12:antialias=true:autohint=true",
