@@ -9,7 +9,7 @@ static char *font = "Iosevka Slab Medium:pixelsize=13:antialias=true:autohint=tr
 /* Spare fonts */
 static char *font2[] = {
 	"Symbola:pixelsize=13:antialias=true:autohint=true",
-	"Hack Nerd Font Mono:pixelsize=13:antialias=true:autohint=true",
+	"Hack Nerd Font Mono:pixelsize=18:antialias=true:autohint=true",
 };
 
 static int borderpx = 2;
